@@ -1,4 +1,4 @@
 ### Olá!
 
-- 🔭 Cursando ciência da computação
+- 🔭 Cursando Ciência da computação
 - 🌱 Aprendendo sobre Kotlin e Android
