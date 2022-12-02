@@ -1,4 +1,4 @@
 ### Olá!
 
 - 🔭 Cursando Ciência da computação
-- 🌱 Aprendendo sobre Kotlin e Android
+- 🌱 Trabalhando atualmente como Desenvolvedor Android
