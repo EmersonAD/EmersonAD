@@ -1,7 +1,7 @@
 # Emerson Soares - Software Developer
 
 <br>Bem vindo(a), aqui no meu github você vai encontrar projetos finalizados e outros voltados para estudo!</br>
-Atualmente trabalho como desenvolvedor android e estou se formando em Ciência da Computação e possuo uma grande paixão pela tecnologia em geral.
+Atualmente trabalho como desenvolvedor android e estou se formando em Ciência da Computação, e possuo uma grande paixão pela tecnologia em geral.
 <br></br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonAD&show_icons=true&count_private=true&hide=stars&theme=dark)
 
