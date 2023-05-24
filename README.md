@@ -23,7 +23,7 @@ Sou Emerson, atualmente trabalho como Desenvolvedor Mobile [Android](https://git
 ---
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonAD&show_icons=true&theme=dark&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=EmersonAD&show_icons=true&show_icons=true&theme=dark&count_private=true" />
+<img height = "200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EmersonAD&show_icons=true&theme=dark&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EmersonAD&show_icons=true&show_icons=true&theme=dark&count_private=true" />
 </div>
 
