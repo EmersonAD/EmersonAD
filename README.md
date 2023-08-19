@@ -7,7 +7,7 @@
 
 Sou Emerson, atualmente trabalho como Desenvolvedor Mobile [Android](https://github.com/EmersonAD).
 
-- Cursando ciência da computação
+- Formado em ciência da computação
 - Entusiasta sobre tecnologia
 - Sempre aprimorando o conhecimento
 
